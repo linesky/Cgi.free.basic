@@ -1,3 +1,2 @@
-print "Content-Type: text/html"
-print chr(13)+chr(10)
-print "hello world."
+
+print "<html><body bgcolor='blue'>Hello, world</body><html>"
